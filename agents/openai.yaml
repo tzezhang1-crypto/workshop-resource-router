@@ -1,0 +1,7 @@
+interface:
+  display_name: "教師研習資源路由"
+  short_description: "依任務選擇正確的 ChatGPT App 設定、repo 或 Skill"
+  default_prompt: "使用 $workshop-resource-router，幫我選出這個教師任務需要的正確資源與驗收方式。"
+
+policy:
+  allow_implicit_invocation: true
